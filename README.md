@@ -3,8 +3,6 @@
 ![ChatGPT Image Apr 5, 2025 at 05_11_23 PM](https://github.com/user-attachments/assets/4e02a44b-5802-4618-9142-2a210bf11f69)
 
 
-# 🎯 **Use Case**   
-
 ## 📚 **Scenario:**  
 An employee named John Doe, working in a sensitive department, was recently placed on a performance improvement plan (PIP). After displaying concerning behavior, management suspects John may be planning to steal proprietary information and leave the company. The investigation involves analyzing activities on John’s corporate device (`sa-mde-test-2`) using Microsoft Defender for Endpoint (MDE).  
 
@@ -56,7 +54,7 @@ ___
 
 ___
 
-   3. **🌐 Network Exfiltration Check:**  
+3. **🌐 Network Exfiltration Check:**  
    - **Observed Behavior:** No evidence of data exfiltration via network logs during the time frame.  
 
    - **Detection Query (KQL):**  
